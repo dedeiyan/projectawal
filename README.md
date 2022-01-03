@@ -1,2 +1,2 @@
 # projectawal
-project glory coba github
+project tugas akhir, ekstraksi citra huruf hangeul ke dalam latin
